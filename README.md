@@ -42,4 +42,7 @@ Thats about it all to get you started with meridio,the free file hosting social 
 ### Libraries Used
 1. Bootstrap<br>
 2. Typed.js and animate.css for animations<br>
-### Work still in progress...
+
+###DISCLAIMER
+
+Downloading copyrighted media without the owner’s permission is illegal is some countries. Under no circumstances is this software intended to encourage illegal activity, and there are no guarantees that this information will protect you from any legal action.
